@@ -1,4 +1,4 @@
-﻿# Relax your eyes (and your brain) with natural colors in Visual Studio
+﻿# Programming in blue, a natural color theme for Visual Studio
 
 ![](https://raw.githubusercontent.com/ChrisBertrandDotNet/Programming-in-blue/master/programming_in_blue_Visual_Studio.png)
 
