@@ -20,5 +20,8 @@ So let's adapt our programming environment to our deep nature.
 
 # Visual Studio
 
-In Visual Studio, that is quite easy.
 Please go to [this page](https://github.com/ChrisBertrandDotNet/Programming-in-blue/blob/master/Visual%20Studio%20themes.md) for a procedure.
+
+# Notepad++
+
+The procedure is [on this page](https://github.com/ChrisBertrandDotNet/Programming-in-blue/blob/master/Notepad%2B%2B%20theme.md)
