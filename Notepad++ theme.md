@@ -37,7 +37,7 @@ If you want to select another font, please do that:
 
 # Please help by completing the theme
 
-I set up the color themes at least for my personal usage (mainly C#, XML, HTML and XAML). I did not check formats I do not use, such as C++, VB or F#.  
+I set up this color theme at least for my personal usage (mainly C#, XML, HTML and XAML). I did not check formats I do not use, such as C++, VB or F#.  
 Consequently, you may encounter wrong colors in some text formats.
 
 The main reason is the color set of a theme is huge: about 1280 colors.  
