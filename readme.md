@@ -1,6 +1,6 @@
 ﻿# Relax your eyes (and your brain) with natural colors
 
-![](https://raw.githubusercontent.com/ChrisBertrandDotNet/Programming-in-blue/master/programming_in_blue_Visual_Studio.png)
+![](https://raw.githubusercontent.com/ChrisBertrandDotNet/Programming-in-blue/master/Visual%20Studio/life_in_blue_Visual_Studio.png)
 
 On most desktop operating systems, the default color theme is black on white, just like a sheet of paper.  
 It obviously was chosen to be the most readable possible. Unfortunately, that is tiring for the eyes and for the whole visual system (I include the optical nerves and the brain).
@@ -20,8 +20,8 @@ So let's adapt our programming environment to our deep nature.
 
 # Visual Studio
 
-Please go to [this page](https://github.com/ChrisBertrandDotNet/Programming-in-blue/blob/master/Visual%20Studio%20themes.md) for a procedure.
+Please go to [this page](https://github.com/ChrisBertrandDotNet/Programming-in-blue/blob/master/Visual%20Studio/Visual%20Studio%20themes.md) for a procedure.
 
 # Notepad++
 
-The procedure is [on this page](https://github.com/ChrisBertrandDotNet/Programming-in-blue/blob/master/Notepad%2B%2B%20theme.md)
+The procedure is [on this page](https://github.com/ChrisBertrandDotNet/Programming-in-blue/blob/master/Notepad%2B%2B/Notepad%2B%2B%20theme.md)

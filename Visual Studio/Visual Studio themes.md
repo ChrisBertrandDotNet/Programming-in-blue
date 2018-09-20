@@ -1,6 +1,6 @@
 ﻿# Programming in blue, a natural color theme for Visual Studio
 
-![](https://raw.githubusercontent.com/ChrisBertrandDotNet/Programming-in-blue/master/programming_in_blue_Visual_Studio.png)
+![](https://raw.githubusercontent.com/ChrisBertrandDotNet/Programming-in-blue/master/Visual%20Studio/life_in_blue_Visual_Studio.png)
 
 # The procedure
 
@@ -12,9 +12,9 @@ First, install the free VS extension "Color Theme Editor":
 
 Second, download my color theme on GitHub:
 
-*   For [VS 2013](https://github.com/ChrisBertrandDotNet/Programming-in-blue/raw/master/VS2013-Programming-in-blue.vstheme).
-*   For [VS 2015](https://github.com/ChrisBertrandDotNet/Programming-in-blue/raw/master/VS2015-Programming-in-blue.vstheme).
-*   For [VS 2017](https://github.com/ChrisBertrandDotNet/Programming-in-blue/raw/master/VS2017-Programming-in-blue.vstheme).
+*   For [VS 2013](https://github.com/ChrisBertrandDotNet/Programming-in-blue/raw/master/Visual%20Studio/VS2013-Life-in-blue.vstheme).
+*   For [VS 2015](https://github.com/ChrisBertrandDotNet/Programming-in-blue/raw/master/Visual%20Studio/VS2015-Life-in-blue.vstheme).
+*   For [VS 2017](https://github.com/ChrisBertrandDotNet/Programming-in-blue/raw/master/Visual%20Studio/VS2017-Life-in-blue.vstheme).
 
 Third, apply the theme:
 
