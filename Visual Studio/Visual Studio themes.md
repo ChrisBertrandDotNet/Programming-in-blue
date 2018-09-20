@@ -1,4 +1,4 @@
-﻿# Programming in blue, a natural color theme for Visual Studio
+﻿# Life in blue, a natural color theme for Visual Studio
 
 ![](https://raw.githubusercontent.com/ChrisBertrandDotNet/Programming-in-blue/master/Visual%20Studio/life_in_blue_Visual_Studio.png)
 

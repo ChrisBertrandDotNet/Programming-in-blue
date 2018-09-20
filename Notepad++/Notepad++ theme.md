@@ -1,4 +1,4 @@
-﻿# Programming in blue, a natural color theme for Notepad++
+﻿# Life in blue, a natural color theme for Notepad++
 
 ![](https://raw.githubusercontent.com/ChrisBertrandDotNet/Programming-in-blue/master/Notepad%2B%2B/life_in_blue_Notepad%2B%2B.png)
 
