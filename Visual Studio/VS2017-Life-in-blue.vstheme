@@ -7509,8 +7509,8 @@
         <Foreground Type="CT_RAW" Source="FFDED0C7" />
       </Color>
       <Color Name="XAML Attribute Value">
-        <Background Type="CT_RAW" Source="FF787152" />
-        <Foreground Type="CT_RAW" Source="FF85EF74" />
+        <Background Type="CT_RAW" Source="FF746A57" />
+        <Foreground Type="CT_RAW" Source="FFFFC57B" />
       </Color>
       <Color Name="XAML Attribute Quotes">
         <Background Type="CT_RAW" Source="FF4D698B" />
