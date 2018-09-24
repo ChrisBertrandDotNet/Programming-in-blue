@@ -20,8 +20,8 @@ So let's adapt our programming environment to our deep nature.
 
 # Visual Studio
 
-Please go to [this page](https://github.com/ChrisBertrandDotNet/Programming-in-blue/blob/master/Visual%20Studio/Visual%20Studio%20themes.md) for a procedure.
+Please go to [this page](https://github.com/ChrisBertrandDotNet/Programming-in-blue/blob/master/Visual%20Studio/readme.md) for a procedure.
 
 # Notepad++
 
-The procedure is [on this page](https://github.com/ChrisBertrandDotNet/Programming-in-blue/blob/master/Notepad%2B%2B/Notepad%2B%2B%20theme.md)
+The procedure is [on this page](https://github.com/ChrisBertrandDotNet/Programming-in-blue/blob/master/Notepad%2B%2B/readme.md)
