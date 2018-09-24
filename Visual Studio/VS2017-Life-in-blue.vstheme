@@ -1106,7 +1106,7 @@
         <Foreground Type="CT_RAW" Source="FF387858" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedReference">
-        <Background Type="CT_RAW" Source="FFFFFF00" />
+        <Background Type="CT_RAW" Source="FF848400" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/FindHighlight">
@@ -1498,7 +1498,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedWrittenReference">
-        <Background Type="CT_RAW" Source="FFFFFF00" />
+        <Background Type="CT_RAW" Source="FF848400" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="brace matching">

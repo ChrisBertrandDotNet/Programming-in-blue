@@ -325,7 +325,7 @@ Notepad++ Custom Style
             <WordsStyle name="COMMENT DOC KEYWORD" styleID="17" fgColor="6C788C" bgColor="4C6B8C" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="COMMENT DOC KEYWORD ERROR" styleID="18" fgColor="6C788C" bgColor="4C6B8C" fontName="" fontStyle="1" fontSize="" />
         </LexerType>
-        <LexerType name="javascript" desc="Javascript" ext="json">
+        <LexerType name="javascript" desc="JavaScript (embedded)" ext="">
             <WordsStyle name="DEFAULT" styleID="41" fgColor="E0E2E4" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="45" fgColor="FFCD22" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="WORD" styleID="46" fgColor="E0E2E4" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
@@ -338,6 +338,14 @@ Notepad++ Custom Style
             <WordsStyle name="COMMENT" styleID="42" fgColor="818E96" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENTLINE" styleID="43" fgColor="818E96" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENTDOC" styleID="44" fgColor="6C788C" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
+        </LexerType>
+        <LexerType name="json" desc="JSON" ext="">
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="FFFFFF" bgColor="4B6D8F" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="4B6D8F" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING DOUBLE QUOTE" styleID="6" fgColor="FFC57B" bgColor="746A57" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING SINGLE QUOTE" styleID="7" fgColor="FFB355" bgColor="746A57" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="BOOLEAN NULL" styleID="5" fgColor="FF8080" bgColor="4B6D8F" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="E8E2B7" bgColor="4B6D8F" fontName="" fontStyle="1" fontSize="" />
         </LexerType>
         <LexerType name="kix" desc="KiXtart" ext="">
             <WordsStyle name="DEFAULT" styleID="31" fgColor="E0E2E4" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
