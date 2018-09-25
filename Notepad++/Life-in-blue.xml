@@ -393,13 +393,13 @@ Notepad++ Custom Style
             <WordsStyle name="COMMENT" styleID="1" fgColor="66747B" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="PREPROCESSOR" styleID="2" fgColor="A082BD" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDENTIFIER" styleID="3" fgColor="678CB1" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="OPERATOR" styleID="4" fgColor="E8E2B7" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="4" fgColor="E8E2B7" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="">endfunction endif</WordsStyle>
             <WordsStyle name="TARGET" styleID="5" fgColor="93C763" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDEOL" styleID="9" fgColor="D39745" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="matlab" desc="Matlab" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="E0E2E4" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMENT" styleID="1" fgColor="66747B" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="66747B" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="">ContentScroller</WordsStyle>
             <WordsStyle name="COMMAND" styleID="2" fgColor="E0E2E4" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="3" fgColor="FFCD22" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="4" fgColor="93C763" bgColor="4C6B8C" fontName="" fontStyle="1" fontSize="" keywordClass="instre1">endfunction endif</WordsStyle>
@@ -548,8 +548,8 @@ Notepad++ Custom Style
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="93C763" bgColor="4C6B8C" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
             <WordsStyle name="TYPE WORD" styleID="16" fgColor="678CB1" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="CHARACTER" styleID="7" fgColor="FF8409" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="">if else for while</WordsStyle>
+            <WordsStyle name="CHARACTER" styleID="7" fgColor="FF8409" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="">bool long int char</WordsStyle>
             <WordsStyle name="OPERATOR" styleID="10" fgColor="E8E2B7" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VERBATIM" styleID="13" fgColor="E0E2E4" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="REGEX" styleID="14" fgColor="D39745" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
@@ -682,8 +682,8 @@ Notepad++ Custom Style
             <WordsStyle name="COMMENT LIne" styleID="2" fgColor="66747B" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="3" fgColor="FFCD22" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="4" fgColor="EC7600" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="OPERATOR" styleID="5" fgColor="E8E2B7" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="IDENTIFIER" styleID="6" fgColor="E0E2E4" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="5" fgColor="E8E2B7" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="">if else for while</WordsStyle>
+            <WordsStyle name="IDENTIFIER" styleID="6" fgColor="E0E2E4" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="">bool long int char</WordsStyle>
             <WordsStyle name="STRING EOL" styleID="7" fgColor="E0E2E4" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION" styleID="8" fgColor="93C763" bgColor="4C6B8C" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
             <WordsStyle name="STD OPERATOR" styleID="9" fgColor="E0E2E4" bgColor="4C6B8C" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
