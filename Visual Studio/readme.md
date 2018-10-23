@@ -33,3 +33,4 @@ I suggested improvements that would reduce the work of a theme creator to about 
 [https://github.com/Microsoft/VS-ColorThemes/issues/45](https://github.com/Microsoft/VS-ColorThemes/issues/45)
 
 You can share your modifications by adding a [pull request](https://github.com/ChrisBertrandDotNet/Programming-in-blue/pulls) to my GitHub repository.
+Or by sending a fix by adding an "issue" to the repository. Just attach a theme file to your message.
